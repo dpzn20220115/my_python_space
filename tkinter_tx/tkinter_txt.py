@@ -1,5 +1,5 @@
 import tkinter
-from tkinter_tx import tkinter_solution
+import tkinter_solution
 from PIL import ImageTk
 """窗体设置"""
 # 窗体对象
