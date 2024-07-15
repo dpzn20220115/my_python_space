@@ -37,7 +37,6 @@ def reduce_for():
     """
     前两个参数传给函数参数后，返回值与第三个继续执行，依次类推
     """
-
     def add(a, b):
         return a + b
     m = reduce(add, [1, 3, 6, 20, 3])
